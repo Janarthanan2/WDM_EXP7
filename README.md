@@ -93,7 +93,7 @@ plt.show()
 ```
 
 ### Output:
-![image](https://github.com/user-attachments/assets/77b00172-9015-4de1-8980-60783c3b0ff7)
+<img src="https://github.com/user-attachments/assets/77b00172-9015-4de1-8980-60783c3b0ff7" width=50%>
 
 
 ### Result:
